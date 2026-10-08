@@ -4,7 +4,7 @@ A real-time Python + OpenCV tracker that finds a colored target (such as a buoy)
 from the image center and turns that offset into guidance commands for an underwater vehicle
 (**yaw LEFT/RIGHT, heave UP/DOWN, surge FORWARD/STOP, SEARCH**).
 
-**Live demo:** _STREAMLIT_URL_
+**Live demo:** [https://emreyoleridev-rov-color-tracking-app-97t4lr.streamlit.app/](https://emreyoleridev-rov-color-tracking-app-97t4lr.streamlit.app/)
 
 ![Pipeline](results/figures/pipeline_stages.jpg)
 
