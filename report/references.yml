@@ -1,0 +1,100 @@
+yilmaz2006:
+  type: article
+  title: "Object Tracking: A Survey"
+  author: ["Yilmaz, Alper", "Javed, Omar", "Shah, Mubarak"]
+  date: 2006
+  parent: {type: periodical, title: ACM Computing Surveys, volume: 38, issue: 4}
+  serial-number: {doi: 10.1145/1177352.1177355}
+
+chaumette2006:
+  type: article
+  title: Visual Servo Control, Part I. Basic Approaches
+  author: ["Chaumette, François", "Hutchinson, Seth"]
+  date: 2006
+  page-range: 82-90
+  parent: {type: periodical, title: IEEE Robotics & Automation Magazine, volume: 13, issue: 4}
+  serial-number: {doi: 10.1109/MRA.2006.250573}
+
+jaffe1990:
+  type: article
+  title: Computer Modeling and the Design of Optimal Underwater Imaging Systems
+  author: Jaffe, Jules S.
+  date: 1990
+  page-range: 101-111
+  parent: {type: periodical, title: IEEE Journal of Oceanic Engineering, volume: 15, issue: 2}
+  serial-number: {doi: 10.1109/48.50695}
+
+akkaynak2018:
+  type: article
+  title: A Revised Underwater Image Formation Model
+  author: ["Akkaynak, Derya", "Treibitz, Tali"]
+  date: 2018
+  page-range: 6723-6732
+  parent: {type: proceedings, title: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+
+smith1978:
+  type: article
+  title: Color Gamut Transform Pairs
+  author: Smith, Alvy Ray
+  date: 1978
+  page-range: 12-19
+  parent: {type: periodical, title: ACM SIGGRAPH Computer Graphics, volume: 12, issue: 3}
+  serial-number: {doi: 10.1145/965139.807361}
+
+serra1982:
+  type: book
+  title: Image Analysis and Mathematical Morphology
+  author: Serra, Jean
+  date: 1982
+  publisher: {name: Academic Press, location: London}
+
+suzuki1985:
+  type: article
+  title: Topological Structural Analysis of Digitized Binary Images by Border Following
+  author: ["Suzuki, Satoshi", "Abe, Keiichi"]
+  date: 1985
+  page-range: 32-46
+  parent: {type: periodical, title: "Computer Vision, Graphics, and Image Processing", volume: 30, issue: 1}
+  serial-number: {doi: 10.1016/0734-189X(85)90016-7}
+
+hu1962:
+  type: article
+  title: Visual Pattern Recognition by Moment Invariants
+  author: Hu, Ming-Kuei
+  date: 1962
+  page-range: 179-187
+  parent: {type: periodical, title: IRE Transactions on Information Theory, volume: 8, issue: 2}
+  serial-number: {doi: 10.1109/TIT.1962.1057692}
+
+kalman1960:
+  type: article
+  title: A New Approach to Linear Filtering and Prediction Problems
+  author: Kalman, Rudolph E.
+  date: 1960
+  page-range: 35-45
+  parent: {type: periodical, title: Journal of Basic Engineering, volume: 82, issue: 1}
+  serial-number: {doi: 10.1115/1.3662552}
+
+ancuti2018:
+  type: article
+  title: Color Balance and Fusion for Underwater Image Enhancement
+  author: ["Ancuti, Codruta O.", "Ancuti, Cosmin", "De Vleeschouwer, Christophe", "Bekaert, Philippe"]
+  date: 2018
+  page-range: 379-393
+  parent: {type: periodical, title: IEEE Transactions on Image Processing, volume: 27, issue: 1}
+  serial-number: {doi: 10.1109/TIP.2017.2759252}
+
+bradski2000:
+  type: article
+  title: The OpenCV Library
+  author: Bradski, Gary
+  date: 2000
+  parent: {type: periodical, title: "Dr. Dobb's Journal of Software Tools"}
+
+gonzalez2018:
+  type: book
+  title: Digital Image Processing
+  author: ["Gonzalez, Rafael C.", "Woods, Richard E."]
+  edition: 4
+  date: 2018
+  publisher: {name: Pearson, location: New York}
