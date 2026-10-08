@@ -1,0 +1,7 @@
+Scenario,Detection rate %,False-positive frames %,Mean centroid err (px),Smoothed err (px),Yaw cmd acc %,Heave cmd acc %,Surge cmd acc %,Full cmd acc %,Mask IoU,Spurious blobs/frame,Cmd changes /100 fr,Occluded frames,FPS
+clear,100.0,0.0,0.96,5.6,98.33,97.33,100.0,95.67,0.94,0.0,4.35,0.0,257.67
+turbid,100.0,0.0,5.48,7.47,98.67,97.0,100.0,95.67,0.72,0.0,4.35,0.0,530.84
+noisy,100.0,0.0,1.45,5.72,98.33,97.67,100.0,96.0,0.92,0.01,4.35,0.0,286.45
+distractors,100.0,0.0,1.05,5.6,98.33,97.5,100.0,95.83,0.76,5.71,4.35,0.0,427.64
+occlusion,100.0,6.33,1.28,5.58,98.93,97.51,100.0,96.44,0.93,0.0,4.35,19.0,479.23
+hard,100.0,1.33,4.65,6.9,98.93,97.15,100.0,96.09,0.69,3.99,3.68,19.0,492.09
